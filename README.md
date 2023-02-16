@@ -1,0 +1,1 @@
+# full-stack-starter-kit-fastapi-nosql
